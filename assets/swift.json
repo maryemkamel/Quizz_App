@@ -1,0 +1,88 @@
+[
+    {
+        "1": "Lesquels des éléments suivants sont des types de collection dans Swift ?",
+        "2": "Les fonctions utilisent les noms de paramètre comme étiquettes pour leurs arguments par défaut. Qu’est-ce qui devrait \nprécéder un nom de paramètre afin de ne pas mentionner le nom de paramètre dans l’appel de \nfonction ?\n ",
+        "3": "Quel opérateur devrait-on utiliser pour donner une \nvaleur par défaut à la variable capacity ?",
+        "4": "Toutes les façons suivantes sont sûres pour déplier (« unwrap ») un optionnel, à l’exception de :",
+        "5": "Quelle est la valeur de swiftCourse1.difficulty?",
+        "6": "Quelle est la visibilité par défaut d'un attribut de classe ou de méthode en Swift ?",
+        "7": "Quelle partie du modèle MVC permet la relation entre l'interface utilisateur et le modèle de données ?",
+        "8": "Quelle est la valeur de swiftCourse1.difficulty?",
+        "9": "Quelle est la visibilité par défaut d'un attribut de classe ou de méthode en Swift ?",
+        "10": "Lesquels des éléments suivants sont des types de collection dans Swift ?"
+    },
+    {
+        "1": {
+            "a": "array, set, dictionary",
+            "b": "dictionary",
+            "c": "array, dictionary",
+            "d": "array, set"
+        },
+        "2": {
+            "a": "?",
+            "b": "!",
+            "c": "_",
+            "d": "-"
+        },
+        "3": {
+            "a": "??",
+            "b": "?",
+            "c": "->",
+            "d": "&"
+        },
+        "4": {
+            "a": "optional binding",
+            "b": "optional chaining",
+            "c": "nil coaslecing",
+            "d": "forced unwrapping"
+        },
+        "5": {
+            "a": "Optional(0)",
+            "b": "nil",
+            "c": "Optional(2)",
+            "d": "Optional(nil)"
+        },
+         "6": {
+            "a": "Protected",
+            "b": "Internal",
+            "c": "Private",
+            "d": "Public"
+        },
+        "7": {
+            "a": "Protocol",
+            "b": "Delegate",
+            "c": "View",
+            "d": "Controller"
+        },
+        "8": {
+            "a": "Optional(0)",
+            "b": "nil",
+            "c": "Optional(2)",
+            "d": "Optional(nil)"
+        },
+        "9": {
+            "a": "Protected",
+            "b": "Internal",
+            "c": "Private",
+            "d": "Public"
+        },
+        "10": {
+            "a": "array, set, dictionary",
+            "b": "dictionary",
+            "c": "array, dictionary",
+            "d": "array, set"
+        }
+    },
+    {
+        "1": "array, set, dictionary",
+        "2": "_",
+        "3": "??",
+        "4": "forced unwrapping",
+        "5": "Optional(2)",
+        "6": "Internal",
+        "7": "Controller",
+        "8": "Optional(2)",
+        "9": "Internal",
+        "10": "array, set, dictionary"
+    }
+]

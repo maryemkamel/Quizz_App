@@ -1,0 +1,88 @@
+[
+    {
+        "1": "La population du Maroc est estimée à environ combien d'habitants ?",
+        "2": "Quel film célèbre porte le nom de l'une des villes du Maroc ?",
+        "3": "Où se trouve le tombeau de feu Hassan II ?",
+        "4": "Dans quelle ville se déroule le festival de la musique sacrée ?",
+        "5": "A quelle dynastie appartient le roi Mohammed VI  ?",
+        "6": "Sur combien de kilomètres s'étendent les plages marocaines ? ",
+        "7": "Quelle langue est la plus parlée au Maroc après la langue maternelle ?",
+        "8": "Casablanca est qualifiée de ville ?",
+        "9": "En combien de régions le Maroc est-il divisé ?",
+        "10": "Quelle est la superficie du pays ? "
+    },
+    {
+        "1": {
+            "a": "40 millions d'habitans",
+            "b": "50 millions d'habitans",
+            "c": "60 millions d'habitans",
+            "d": "30 millions d'habitans"
+        },
+        "2": {
+            "a": "Casablanca",
+            "b": "Tanger",
+            "c": "Marrakech",
+            "d": "Agadir"
+        },
+        "3": {
+            "a": "Mausolée Mohammed V",
+            "b": "Mausolée Hassan II",
+            "c": "Mausolée Mohammed VI",
+            "d": "Mausolée Hassan I"
+        },
+        "4": {
+            "a": "Fès",
+            "b": "Meknes",
+            "c": "Oujda",
+            "d": "Rabat"
+        },
+        "5": {
+            "a": "Idrisside",
+            "b": "Alaouite",
+            "c": "Almohade",
+            "d": "Almoravide"
+        },
+        "6": {
+            "a": "2 000 km",
+            "b": "3 500 km",
+            "c": "4 700 km",
+            "d": "5 000 km"
+        },
+        "7": {
+            "a": "Le français",
+            "b": "L'espagnol",
+            "c": "L'anglais",
+            "d": "L'allemande"
+        },
+        "8": {
+            "a": "Culturelle",
+            "b": "Economique",
+            "c": "Touristique",
+            "d": "Spirituelle "
+        },
+        "9": {
+            "a": "12",
+            "b": "25",
+            "c": "16",
+            "d": "20"
+        },
+        "10": {
+            "a": "630.000 km2",
+            "b": "900.000 km2",
+            "c": "711.000km2",
+            "d": "815.000 km2"
+        }
+    },
+    {
+        "1": "30 millions d'habitans",
+        "2": "Casablanca",
+        "3": "Mausolée Mohammed V",
+        "4": "Fès",
+        "5": "Alaouite",
+        "6": "3 500 km",
+        "7": "Le français",
+        "8": "Economique",
+        "9": "16",
+        "10": "711.000km2"
+    }
+]
